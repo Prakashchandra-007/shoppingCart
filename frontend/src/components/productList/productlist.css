@@ -1,0 +1,35 @@
+.product-list{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    background-color:#fff;
+    padding:1rem;
+    margin-bottom:1rem;
+    gap:1rem;
+}
+.product-list .img-sec{
+    margin:.5rem ;
+
+}
+.product-list img{
+    max-width: 150px;
+    
+}
+.btn-remove{
+    font-weight: bold;
+    border:none;
+}
+.product-list-details{
+    font-size: 1rem;
+    color: rgb(163, 163, 163);
+}
+.offRate{
+    color: rgb(163, 163, 163);
+    text-decoration: line-through;
+}
+.offPercentage{
+    color: rgb(39, 122, 0);
+}
+.list-data{
+    margin-bottom: .6rem;
+}

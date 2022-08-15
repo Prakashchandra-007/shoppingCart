@@ -1,0 +1,25 @@
+.priceboard{
+    width: 100%;
+    
+}
+.priceboard .priceboard-header{
+    border-bottom: 1px solid rgb(168, 168, 168);
+    padding: .4rem 1rem ;
+}
+.priceboard .priceboard-section{
+    padding: .4rem 1rem ;
+}
+.priceboard .priceboard-section li{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding: .4rem 0;
+}
+.order-btn{
+    border:1px solid rgb(233, 85, 0);
+    color:white;
+    background-color:rgb(233, 85, 0);
+    font-weight: bold;
+    font-size:1.2rem;
+    padding: .4rem 1.5rem ;
+}

@@ -1,0 +1,25 @@
+.product-details-container{
+    display: flex;
+    /* justify-content:center; */
+    align-items:center;
+    flex-wrap: wrap;
+    margin: .5rem;
+    gap:.5rem;
+}
+.product-gallary{
+    width:40%;
+    background-color: #fff;
+    border:1px solid #ccc;
+    padding: .5rem;
+}
+.product-information{
+    align-self:flex-start;
+    width:50%;
+    /* background-color:red; */
+    padding: .5rem;
+}
+.product-gallary img{
+    width:100%;
+    max-width: 300px ;
+    text-align: center;
+}

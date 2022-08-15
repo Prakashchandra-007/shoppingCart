@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Chivo', sans-serif;
+/* font-family: 'Montserrat', sans-serif; */
+}
+
+.App {
+  min-width: 300px;
+  width: 100%;
+  /* min-height: 100vh; */
+  background-color: #f1f1f1;
+}
+
+a{
+text-decoration:none;
+color:initial;
+}
+body{
+  background-color: #f1f1f1;
+}
